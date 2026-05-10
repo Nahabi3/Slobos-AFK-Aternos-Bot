@@ -6,7 +6,7 @@
     "type": "offline"
   },
   "server": {
-    "ip": "Arab_Kraft.aternos.me",
+    "ip": "Arab_Kraft.aternos.me:56319",
     "port": 56319,
     "version": "1.20.2",
     "try-creative": true

@@ -1,12 +1,12 @@
 {
   "name": "AFK Bot",
   "bot-account": {
-    "username": "Slobot00",
+    "username": "slman",
     "password": "",
     "type": "offline"
   },
   "server": {
-    "ip": "Arab_Kraft.aternos.me:56319",
+    "ip": "Arab_Kraft.aternos.me",
     "port": 56319,
     "version": "1.20.1",
     "try-creative": true
